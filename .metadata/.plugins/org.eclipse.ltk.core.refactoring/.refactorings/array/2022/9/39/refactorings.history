@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Recursion.lecture_6&apos; to &apos;generate_subsequence&apos;&#x0D;&#x0A;- Original project: &apos;array&apos;&#x0D;&#x0A;- Original element: &apos;Recursion.lecture_6&apos;&#x0D;&#x0A;- Renamed element: &apos;Recursion.generate_subsequence&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;lecture_6&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Recursion{lecture_6.java[lecture_6" matchStrategy="1" name="generate_subsequence" qualified="false" references="true" similarDeclarations="false" stamp="1664083622807" textual="false" version="1.0"/>
+</session>

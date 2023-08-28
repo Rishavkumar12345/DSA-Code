@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Binary_tree.max_sum_of_subtree&apos; to &apos;sum&apos;&#x0D;&#x0A;- Original project: &apos;Binary_tree&apos;&#x0D;&#x0A;- Original element: &apos;Binary_tree.max_sum_of_subtree&apos;&#x0D;&#x0A;- Renamed element: &apos;Binary_tree.sum&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;max_sum_of_subtree&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Binary_tree{max_sum_of_subtree.java[max_sum_of_subtree" matchStrategy="1" name="sum" qualified="false" references="true" similarDeclarations="false" stamp="1660976926500" textual="false" version="1.0"/>
+</session>
